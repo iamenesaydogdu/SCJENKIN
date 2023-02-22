@@ -1,0 +1,695 @@
+2023-02-13 14:06:39 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-13 14:06:39 INFO  OrangeHRMHome:85 - Renastech2 is successfully entered
+2023-02-13 14:06:41 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (db0e87e88c15169dc2b192b1594e3c4d)] -> id: btnSave] is successfully clicked
+2023-02-13 14:06:43 INFO  OrangeHRMHome:97 - Personal Details is expected header and succesfully verified 
+2023-02-13 14:11:32 ERROR OrangeHRMLogin:28 - username is empty . Please check balue you provided
+2023-02-13 14:11:40 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-13 14:11:40 INFO  OrangeHRMHome:85 - Renastech2 is successfully entered
+2023-02-13 14:11:42 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (c6cafd34b1a72d197892ae0203b29290)] -> id: btnSave] is successfully clicked
+2023-02-13 14:11:44 INFO  OrangeHRMHome:97 - Personal Details is expected header and succesfully verified 
+2023-02-13 14:19:17 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 14:19:18 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 14:19:25 INFO  OrangeHRMHome:77 - EnesAyd is successfullly entered
+2023-02-13 14:19:25 INFO  OrangeHRMHome:85 - Aydogdu123 is successfully entered
+2023-02-13 14:19:26 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-13 14:19:27 INFO  OrangeHRMSteps:99 - Username , Paassword and Status of account provided succesfully 
+2023-02-13 14:19:28 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (afdde039815f4c4c141939bb273d4741)] -> id: btnSave] is successfully clicked
+2023-02-13 14:38:30 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 14:38:30 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 14:38:32 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 14:38:35 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 14:38:35 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 14:38:36 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 14:38:38 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 14:38:38 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 14:38:40 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 14:38:44 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-13 14:38:44 INFO  OrangeHRMHome:85 - Renastech2 is successfully entered
+2023-02-13 14:38:46 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (b243743ac60a8c86310741a57a8dc582)] -> id: btnSave] is successfully clicked
+2023-02-13 14:38:48 INFO  OrangeHRMHome:97 - Personal Details is expected header and succesfully verified 
+2023-02-13 14:38:49 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 14:38:49 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 14:38:50 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 14:38:54 INFO  OrangeHRMHome:77 - EnesAyd is successfullly entered
+2023-02-13 14:38:54 INFO  OrangeHRMHome:85 - Aydogdu123 is successfully entered
+2023-02-13 14:38:54 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-13 14:38:56 INFO  OrangeHRMSteps:99 - Username , Paassword and Status of account provided succesfully 
+2023-02-13 14:38:57 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (b243743ac60a8c86310741a57a8dc582)] -> id: btnSave] is successfully clicked
+2023-02-13 14:45:08 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 14:45:08 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 14:45:10 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 14:45:14 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 14:45:14 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 14:45:16 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 14:45:18 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 14:45:18 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 14:45:19 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 14:45:25 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-13 14:45:25 INFO  OrangeHRMHome:85 - Renastech2 is successfully entered
+2023-02-13 14:45:27 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (a68e86e62e856f9b2a56c7e8c15e15d1)] -> id: btnSave] is successfully clicked
+2023-02-13 14:45:29 INFO  OrangeHRMHome:97 - Personal Details is expected header and succesfully verified 
+2023-02-13 14:45:29 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 14:45:29 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 14:45:30 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 14:45:35 INFO  OrangeHRMHome:77 - EnesAyd is successfullly entered
+2023-02-13 14:45:35 INFO  OrangeHRMHome:85 - Aydogdu123 is successfully entered
+2023-02-13 14:45:35 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-13 14:45:36 INFO  OrangeHRMSteps:99 - Username , Paassword and Status of account provided succesfully 
+2023-02-13 14:45:37 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (a68e86e62e856f9b2a56c7e8c15e15d1)] -> id: btnSave] is successfully clicked
+2023-02-13 14:46:40 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 14:46:40 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 14:46:42 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 14:46:49 INFO  OrangeHRMHome:77 - EnesAyd is successfullly entered
+2023-02-13 14:46:49 INFO  OrangeHRMHome:85 - Aydogdu123 is successfully entered
+2023-02-13 14:46:49 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-13 14:46:51 INFO  OrangeHRMSteps:99 - Username , Paassword and Status of account provided succesfully 
+2023-02-13 14:46:53 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (f8e5d61153ca909710ca15f6d84f9743)] -> id: btnSave] is successfully clicked
+2023-02-13 15:02:28 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 15:02:28 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 15:02:29 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 15:02:32 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 15:02:32 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 15:02:33 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 15:02:36 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 15:02:36 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 15:02:37 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 15:02:42 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-13 15:02:42 INFO  OrangeHRMHome:85 - Renastech2 is successfully entered
+2023-02-13 15:02:44 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (d5af530f3a17327b9a5a2d30576359c0)] -> id: btnSave] is successfully clicked
+2023-02-13 15:02:46 INFO  OrangeHRMHome:97 - Personal Details is expected header and succesfully verified 
+2023-02-13 15:02:46 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 15:02:46 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 15:02:47 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 15:02:52 INFO  OrangeHRMHome:77 - EnesAyd is successfullly entered
+2023-02-13 15:02:52 INFO  OrangeHRMHome:85 - Aydogdu123 is successfully entered
+2023-02-13 15:02:52 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-13 15:02:53 INFO  OrangeHRMSteps:99 - Username , Paassword and Status of account provided succesfully 
+2023-02-13 15:02:55 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (d5af530f3a17327b9a5a2d30576359c0)] -> id: btnSave] is successfully clicked
+2023-02-13 15:03:02 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 15:03:02 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 15:03:04 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 15:03:07 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-13 15:03:08 INFO  OrangeHRMHome:85 - Renastech#2 is successfully entered
+2023-02-13 15:03:08 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-13 15:11:02 INFO  Hooks:19 - Driver is successfully started
+2023-02-13 15:11:05 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 15:11:05 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 15:11:07 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 15:11:13 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-13 15:11:14 INFO  OrangeHRMHome:85 - Renastech#2 is successfully entered
+2023-02-13 15:11:14 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-13 15:11:16 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (ad7e40511a7a6a6264356d7847a568e2)] -> id: btnSave] is successfully clicked
+2023-02-13 15:38:22 INFO  Hooks:18 - Driver is successfully started
+2023-02-13 15:38:26 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 15:38:26 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 15:38:28 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 15:38:37 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-13 15:38:37 INFO  OrangeHRMHome:85 - Renastech#2 is successfully entered
+2023-02-13 15:38:37 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-13 15:38:37 INFO  OrangeHRMSteps:130 - Add login details button os clicked succesfully
+2023-02-13 15:38:37 INFO  OrangeHRMSteps:132 - renastech123is provied as username 
+2023-02-13 15:38:37 INFO  OrangeHRMSteps:134 - Renastech2022is provied as password 
+2023-02-13 15:38:39 INFO  Hooks:18 - Driver is successfully started
+2023-02-13 15:38:39 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 15:38:39 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 15:38:40 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 15:38:45 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-13 15:38:45 INFO  OrangeHRMHome:85 - Renastech#2 is successfully entered
+2023-02-13 15:38:45 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-13 15:38:45 INFO  OrangeHRMSteps:130 - Add login details button os clicked succesfully
+2023-02-13 15:38:45 INFO  OrangeHRMSteps:132 - renastech234is provied as username 
+2023-02-13 15:38:45 INFO  OrangeHRMSteps:134 - Renastech20222is provied as password 
+2023-02-13 15:38:46 INFO  Hooks:18 - Driver is successfully started
+2023-02-13 15:38:47 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 15:38:47 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 15:38:48 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 15:38:52 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-13 15:38:52 INFO  OrangeHRMHome:85 - Renastech#2 is successfully entered
+2023-02-13 15:38:53 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-13 15:38:53 INFO  OrangeHRMSteps:130 - Add login details button os clicked succesfully
+2023-02-13 15:38:53 INFO  OrangeHRMSteps:132 - abcRenastechis provied as username 
+2023-02-13 15:38:53 INFO  OrangeHRMSteps:134 - Renastech2022is provied as password 
+2023-02-13 15:38:54 INFO  Hooks:18 - Driver is successfully started
+2023-02-13 15:38:54 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 15:38:54 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 15:38:55 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 15:38:59 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-13 15:38:59 INFO  OrangeHRMHome:85 - Renastech#2 is successfully entered
+2023-02-13 15:39:00 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-13 15:39:00 INFO  OrangeHRMSteps:130 - Add login details button os clicked succesfully
+2023-02-13 15:39:00 INFO  OrangeHRMSteps:132 - abcRenastechis provied as username 
+2023-02-13 15:39:00 INFO  OrangeHRMSteps:134 - Renastech2022is provied as password 
+2023-02-13 15:39:01 INFO  Hooks:18 - Driver is successfully started
+2023-02-13 15:39:01 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 15:39:01 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 15:39:02 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 15:39:06 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-13 15:39:06 INFO  OrangeHRMHome:85 - Renastech#2 is successfully entered
+2023-02-13 15:39:06 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-13 15:39:06 INFO  OrangeHRMSteps:130 - Add login details button os clicked succesfully
+2023-02-13 15:39:06 INFO  OrangeHRMSteps:132 - Seray3212is provied as username 
+2023-02-13 15:39:07 INFO  OrangeHRMSteps:134 - Abcd@!456is provied as password 
+2023-02-13 15:39:08 INFO  Hooks:18 - Driver is successfully started
+2023-02-13 15:39:08 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 15:39:08 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 15:39:09 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 15:39:13 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-13 15:39:13 INFO  OrangeHRMHome:85 - Renastech#2 is successfully entered
+2023-02-13 15:39:13 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-13 15:39:13 INFO  OrangeHRMSteps:130 - Add login details button os clicked succesfully
+2023-02-13 15:39:13 INFO  OrangeHRMSteps:132 - Cenkay123is provied as username 
+2023-02-13 15:39:13 INFO  OrangeHRMSteps:134 - bgtrfj@!is provied as password 
+2023-02-13 15:47:22 INFO  Hooks:18 - Driver is successfully started
+2023-02-13 15:47:26 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 15:47:26 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 15:47:28 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 15:47:34 INFO  OrangeHRMHome:77 - renastech is successfullly entered
+2023-02-13 15:47:34 INFO  OrangeHRMHome:85 - renas is successfully entered
+2023-02-13 15:47:34 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-13 15:47:34 INFO  OrangeHRMSteps:130 - Add login details button os clicked succesfully
+2023-02-13 15:47:35 INFO  OrangeHRMSteps:132 - renastech123is provied as username 
+2023-02-13 15:47:35 INFO  OrangeHRMSteps:134 - Renastech2022is provied as password 
+2023-02-13 15:47:36 INFO  Hooks:18 - Driver is successfully started
+2023-02-13 15:47:36 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 15:47:36 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 15:47:38 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 15:47:42 INFO  OrangeHRMHome:77 - Yaseen is successfullly entered
+2023-02-13 15:47:42 INFO  OrangeHRMHome:85 - renastech is successfully entered
+2023-02-13 15:47:42 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-13 15:47:42 INFO  OrangeHRMSteps:130 - Add login details button os clicked succesfully
+2023-02-13 15:47:42 INFO  OrangeHRMSteps:132 - renastech234is provied as username 
+2023-02-13 15:47:42 INFO  OrangeHRMSteps:134 - Renastech20222is provied as password 
+2023-02-13 15:47:44 INFO  Hooks:18 - Driver is successfully started
+2023-02-13 15:47:44 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 15:47:44 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 15:47:45 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 15:47:50 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-13 15:47:50 INFO  OrangeHRMHome:85 - renastech is successfully entered
+2023-02-13 15:47:50 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-13 15:47:50 INFO  OrangeHRMSteps:130 - Add login details button os clicked succesfully
+2023-02-13 15:47:50 INFO  OrangeHRMSteps:132 - abcRenastechis provied as username 
+2023-02-13 15:47:50 INFO  OrangeHRMSteps:134 - Renastech2022is provied as password 
+2023-02-13 15:47:51 INFO  Hooks:18 - Driver is successfully started
+2023-02-13 15:47:51 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 15:47:51 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 15:47:53 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 15:47:57 INFO  OrangeHRMHome:77 - Banu is successfullly entered
+2023-02-13 15:47:57 INFO  OrangeHRMHome:85 - renastech is successfully entered
+2023-02-13 15:47:57 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-13 15:47:57 INFO  OrangeHRMSteps:130 - Add login details button os clicked succesfully
+2023-02-13 15:47:57 INFO  OrangeHRMSteps:132 - abcRenastechis provied as username 
+2023-02-13 15:47:57 INFO  OrangeHRMSteps:134 - Renastech2022is provied as password 
+2023-02-13 15:47:58 INFO  Hooks:18 - Driver is successfully started
+2023-02-13 15:47:59 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 15:47:59 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 15:48:00 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 15:48:04 INFO  OrangeHRMHome:77 - Seray is successfullly entered
+2023-02-13 15:48:04 INFO  OrangeHRMHome:85 - abcdsa is successfully entered
+2023-02-13 15:48:04 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-13 15:48:04 INFO  OrangeHRMSteps:130 - Add login details button os clicked succesfully
+2023-02-13 15:48:04 INFO  OrangeHRMSteps:132 - Seray3212is provied as username 
+2023-02-13 15:48:04 INFO  OrangeHRMSteps:134 - Abcd@!456is provied as password 
+2023-02-13 15:48:05 INFO  Hooks:18 - Driver is successfully started
+2023-02-13 15:48:06 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 15:48:06 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 15:48:07 INFO  OrangeHRMSteps:36 - Username and password provided succesfully
+2023-02-13 15:48:11 INFO  OrangeHRMHome:77 - Huseyin is successfullly entered
+2023-02-13 15:48:11 INFO  OrangeHRMHome:85 -  is successfully entered
+2023-02-13 15:48:12 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-13 15:48:12 INFO  OrangeHRMSteps:130 - Add login details button os clicked succesfully
+2023-02-13 15:48:12 INFO  OrangeHRMSteps:132 - Cenkay123is provied as username 
+2023-02-13 15:48:12 INFO  OrangeHRMSteps:134 - bgtrfj@!is provied as password 
+2023-02-13 16:09:23 INFO  Hooks:18 - Driver is successfully started
+2023-02-13 16:09:27 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 16:09:27 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 16:09:32 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-13 16:09:41 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:41 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:41 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:41 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:42 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:42 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:42 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:42 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:42 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:42 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:42 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:42 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:42 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:42 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:42 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:42 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:42 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:42 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:42 INFO  Hooks:18 - Driver is successfully started
+2023-02-13 16:09:42 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 16:09:42 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 16:09:44 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-13 16:09:51 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:51 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:51 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:51 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:51 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:51 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:51 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:51 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:51 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:51 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:51 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:51 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:51 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:51 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:51 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:51 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:51 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:51 INFO  Hooks:18 - Driver is successfully started
+2023-02-13 16:09:51 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 16:09:51 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 16:09:52 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-13 16:09:59 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:59 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:59 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:59 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:59 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:59 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:59 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:59 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:59 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:59 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:59 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:59 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:59 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:59 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:59 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:59 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:59 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:59 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:09:59 INFO  Hooks:18 - Driver is successfully started
+2023-02-13 16:10:00 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 16:10:00 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 16:10:01 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-13 16:10:07 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:07 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:07 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:07 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:07 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:07 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:07 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:07 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:07 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:07 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:07 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:07 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:07 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:07 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:08 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:08 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:08 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:08 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:08 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:08 INFO  Hooks:18 - Driver is successfully started
+2023-02-13 16:10:08 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 16:10:08 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 16:10:09 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-13 16:10:16 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:16 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:16 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:16 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:16 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:16 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:16 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:16 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:16 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:16 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:16 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:16 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:16 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:16 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:16 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:16 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:16 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:16 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:16 INFO  Hooks:18 - Driver is successfully started
+2023-02-13 16:10:16 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 16:10:16 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 16:10:18 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-13 16:10:24 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:24 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:24 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:24 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:24 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:24 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:24 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:24 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:24 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:24 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:24 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:24 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:24 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:24 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:24 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:24 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:24 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:24 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:24 INFO  Hooks:18 - Driver is successfully started
+2023-02-13 16:10:24 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 16:10:24 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 16:10:26 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-13 16:10:32 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:32 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:32 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:32 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:32 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:32 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:32 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:32 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:32 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:32 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:32 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:32 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:32 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:32 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:32 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:32 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:32 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:32 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:32 INFO  Hooks:18 - Driver is successfully started
+2023-02-13 16:10:33 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-13 16:10:33 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-13 16:10:34 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-13 16:10:40 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:40 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:40 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:40 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:40 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:40 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:40 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:40 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:40 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:40 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:40 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:40 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:40 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:40 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:40 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:40 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:41 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-13 16:10:41 ERROR OrangeHRMAdmin:66 - Nationality provided is not found in the records
+2023-02-15 09:16:47 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 09:16:56 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 09:16:56 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 09:16:59 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 09:17:06 INFO  OrangeHRMHome:77 - Yaseen is successfullly entered
+2023-02-15 09:17:06 INFO  OrangeHRMHome:85 - Renastech2 is successfully entered
+2023-02-15 09:17:09 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (a1134c6c0d02fd09363a61b2d8918c54)] -> id: btnSave] is successfully clicked
+2023-02-15 09:17:11 INFO  OrangeHRMHome:97 - Personal Details is expected header and succesfully verified 
+2023-02-15 09:17:11 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 09:17:11 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 09:17:11 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 09:17:12 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 09:17:18 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 09:17:18 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 09:17:18 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 09:17:19 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 09:17:23 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-15 09:17:23 INFO  OrangeHRMHome:85 - Renastech#2 is successfully entered
+2023-02-15 09:17:24 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-15 09:17:26 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (a1134c6c0d02fd09363a61b2d8918c54)] -> id: btnSave] is successfully clicked
+2023-02-15 09:25:59 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 09:26:02 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 09:26:02 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 09:26:03 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 09:26:10 INFO  OrangeHRMHome:77 - Yaseen is successfullly entered
+2023-02-15 09:26:10 INFO  OrangeHRMHome:85 - Renastech2 is successfully entered
+2023-02-15 09:26:12 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (48fe6d829af8d6e80c85a7b11e0bde72)] -> id: btnSave] is successfully clicked
+2023-02-15 09:26:14 INFO  OrangeHRMHome:97 - Personal Details is expected header and succesfully verified 
+2023-02-15 09:26:14 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 09:26:15 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 09:26:15 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 09:26:16 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 09:26:23 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 09:26:23 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 09:26:23 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 09:26:24 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 09:26:29 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-15 09:26:29 INFO  OrangeHRMHome:85 - Renastech#2 is successfully entered
+2023-02-15 09:26:29 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-15 09:26:32 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (48fe6d829af8d6e80c85a7b11e0bde72)] -> id: btnSave] is successfully clicked
+2023-02-15 09:26:34 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 09:27:06 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 09:27:21 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 09:27:33 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 09:27:34 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 09:27:34 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 09:27:36 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 09:27:37 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 09:27:38 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 09:27:38 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 09:27:39 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 09:27:41 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 09:27:42 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 09:27:42 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 09:27:43 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 09:27:47 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-15 09:27:47 INFO  OrangeHRMHome:85 - Renastech2 is successfully entered
+2023-02-15 09:27:49 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (48fe6d829af8d6e80c85a7b11e0bde72)] -> id: btnSave] is successfully clicked
+2023-02-15 09:27:51 INFO  OrangeHRMHome:97 - Personal Details is expected header and succesfully verified 
+2023-02-15 09:27:51 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 09:27:51 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 09:27:51 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 09:27:53 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 09:27:57 INFO  OrangeHRMHome:77 - EnesAyd is successfullly entered
+2023-02-15 09:27:57 INFO  OrangeHRMHome:85 - Aydogdu123 is successfully entered
+2023-02-15 09:27:57 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-15 09:27:59 INFO  OrangeHRMSteps:102 - Username , Paassword and Status of account provided succesfully 
+2023-02-15 09:28:01 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (48fe6d829af8d6e80c85a7b11e0bde72)] -> id: btnSave] is successfully clicked
+2023-02-15 09:28:10 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 09:28:10 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 09:28:10 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 09:28:12 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 09:28:16 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-15 09:28:16 INFO  OrangeHRMHome:85 - Renastech#2 is successfully entered
+2023-02-15 09:28:16 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-15 13:39:47 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 13:39:47 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 13:39:47 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 14:58:29 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 14:58:35 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 14:58:39 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 14:58:39 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 14:58:40 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 14:58:41 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 14:58:46 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 14:58:46 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 14:58:48 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 14:58:55 INFO  OrangeHRMHome:77 - Yaseen is successfullly entered
+2023-02-15 14:58:55 INFO  OrangeHRMHome:85 - Renastech2 is successfully entered
+2023-02-15 14:58:55 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 14:58:56 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 14:58:56 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 14:58:57 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 14:58:58 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (fd0a25a70ac5e040bd10ddbc2b0c0264)] -> id: btnSave] is successfully clicked
+2023-02-15 14:58:58 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 14:59:00 INFO  OrangeHRMHome:97 - Personal Details is expected header and succesfully verified 
+2023-02-15 14:59:00 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 14:59:00 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 14:59:00 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 14:59:01 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 14:59:01 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 14:59:01 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 14:59:02 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 14:59:08 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 14:59:09 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 14:59:09 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 14:59:09 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-15 14:59:10 INFO  OrangeHRMHome:85 - Renastech2 is successfully entered
+2023-02-15 14:59:10 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 14:59:13 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (7f5947c8b3025b0ab122e4f9b1581e03)] -> id: btnSave] is successfully clicked
+2023-02-15 14:59:14 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 14:59:15 INFO  OrangeHRMHome:97 - Personal Details is expected header and succesfully verified 
+2023-02-15 14:59:15 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-15 14:59:15 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 14:59:15 INFO  OrangeHRMHome:85 - Renastech#2 is successfully entered
+2023-02-15 14:59:16 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 14:59:16 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 14:59:16 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-15 14:59:17 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 14:59:19 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (fd0a25a70ac5e040bd10ddbc2b0c0264)] -> id: btnSave] is successfully clicked
+2023-02-15 14:59:22 INFO  OrangeHRMHome:77 - EnesAyd is successfullly entered
+2023-02-15 14:59:23 INFO  OrangeHRMHome:85 - Aydogdu123 is successfully entered
+2023-02-15 14:59:23 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-15 14:59:24 INFO  OrangeHRMSteps:102 - Username , Paassword and Status of account provided succesfully 
+2023-02-15 14:59:26 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (7f5947c8b3025b0ab122e4f9b1581e03)] -> id: btnSave] is successfully clicked
+2023-02-15 14:59:27 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 14:59:28 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 14:59:29 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 14:59:29 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 14:59:30 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 14:59:34 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-15 14:59:34 INFO  OrangeHRMHome:85 - Renastech#2 is successfully entered
+2023-02-15 14:59:34 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-15 15:02:21 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:02:26 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:02:31 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:02:31 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:02:32 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:02:33 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:02:38 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:02:38 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:02:40 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:02:44 INFO  OrangeHRMHome:77 - Yaseen is successfullly entered
+2023-02-15 15:02:44 INFO  OrangeHRMHome:85 - Renastech2 is successfully entered
+2023-02-15 15:02:45 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:02:45 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:02:45 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:02:46 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:02:46 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (df212d7cc302f33cbd97d28917e10e65)] -> id: btnSave] is successfully clicked
+2023-02-15 15:02:48 INFO  OrangeHRMHome:97 - Personal Details is expected header and succesfully verified 
+2023-02-15 15:02:48 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:02:49 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:02:49 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:02:49 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:02:49 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:02:49 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:02:50 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:02:50 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:02:55 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:02:55 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:02:55 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:02:56 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:02:56 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-15 15:02:56 INFO  OrangeHRMHome:85 - Renastech2 is successfully entered
+2023-02-15 15:02:57 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:02:59 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (e663a0912f63b6c5f767f7239f94c2fc)] -> id: btnSave] is successfully clicked
+2023-02-15 15:03:01 INFO  OrangeHRMHome:97 - Personal Details is expected header and succesfully verified 
+2023-02-15 15:03:01 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:03:01 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:03:01 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:03:02 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-15 15:03:02 INFO  OrangeHRMHome:85 - Renastech#2 is successfully entered
+2023-02-15 15:03:02 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-15 15:03:03 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:03:05 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (df212d7cc302f33cbd97d28917e10e65)] -> id: btnSave] is successfully clicked
+2023-02-15 15:03:08 INFO  OrangeHRMHome:77 - EnesAyd is successfullly entered
+2023-02-15 15:03:08 INFO  OrangeHRMHome:85 - Aydogdu123 is successfully entered
+2023-02-15 15:03:09 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-15 15:03:10 INFO  OrangeHRMSteps:102 - Username , Paassword and Status of account provided succesfully 
+2023-02-15 15:03:12 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (e663a0912f63b6c5f767f7239f94c2fc)] -> id: btnSave] is successfully clicked
+2023-02-15 15:03:13 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:03:14 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:03:15 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:03:15 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:03:16 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:03:20 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-15 15:03:20 INFO  OrangeHRMHome:85 - Renastech#2 is successfully entered
+2023-02-15 15:03:20 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-15 15:06:10 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:06:16 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:06:21 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:06:21 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:06:21 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:06:24 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:06:26 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:06:26 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:06:29 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:06:34 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:06:34 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:06:34 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:06:35 INFO  OrangeHRMHome:77 - Yaseen is successfullly entered
+2023-02-15 15:06:35 INFO  OrangeHRMHome:85 - Renastech2 is successfully entered
+2023-02-15 15:06:35 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:06:37 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (3d77b40356de6841586844c3266c51c4)] -> id: btnSave] is successfully clicked
+2023-02-15 15:06:38 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:06:38 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:06:38 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:06:39 INFO  OrangeHRMHome:97 - Personal Details is expected header and succesfully verified 
+2023-02-15 15:06:39 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:06:40 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:06:40 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:06:40 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:06:40 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:06:41 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:06:45 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-15 15:06:45 INFO  OrangeHRMHome:85 - Renastech2 is successfully entered
+2023-02-15 15:06:46 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:06:46 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:06:46 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:06:47 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (4a3566cd1576cec62cb82ac0f0453503)] -> id: btnSave] is successfully clicked
+2023-02-15 15:06:48 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:06:50 INFO  OrangeHRMHome:97 - Personal Details is expected header and succesfully verified 
+2023-02-15 15:06:50 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:06:50 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:06:50 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:06:51 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:06:52 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:06:55 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-15 15:06:55 INFO  OrangeHRMHome:85 - Renastech#2 is successfully entered
+2023-02-15 15:06:56 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-15 15:06:56 INFO  OrangeHRMHome:77 - EnesAyd is successfullly entered
+2023-02-15 15:06:56 INFO  OrangeHRMHome:85 - Aydogdu123 is successfully entered
+2023-02-15 15:06:57 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-15 15:06:58 INFO  OrangeHRMSteps:102 - Username , Paassword and Status of account provided succesfully 
+2023-02-15 15:06:59 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (3d77b40356de6841586844c3266c51c4)] -> id: btnSave] is successfully clicked
+2023-02-15 15:07:00 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (4a3566cd1576cec62cb82ac0f0453503)] -> id: btnSave] is successfully clicked
+2023-02-15 15:07:02 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:07:03 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:07:03 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:07:04 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:07:09 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-15 15:07:09 INFO  OrangeHRMHome:85 - Renastech#2 is successfully entered
+2023-02-15 15:07:09 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-15 15:09:46 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:09:51 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:09:52 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:09:52 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:09:54 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:09:56 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:09:56 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:09:58 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:09:58 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:10:02 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:10:03 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:10:03 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:10:04 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:10:04 INFO  OrangeHRMHome:77 - Yaseen is successfullly entered
+2023-02-15 15:10:04 INFO  OrangeHRMHome:85 - Renastech2 is successfully entered
+2023-02-15 15:10:07 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (218b839581c00ad30c84c4aa989468b9)] -> id: btnSave] is successfully clicked
+2023-02-15 15:10:07 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:10:07 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:10:07 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:10:08 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:10:09 INFO  OrangeHRMHome:97 - Personal Details is expected header and succesfully verified 
+2023-02-15 15:10:09 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:10:09 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:10:09 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:10:10 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:10:14 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-15 15:10:14 INFO  OrangeHRMHome:85 - Renastech2 is successfully entered
+2023-02-15 15:10:16 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:10:16 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:10:16 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:10:17 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (569ded2eecfea4d8e2779eb3f310b3a6)] -> id: btnSave] is successfully clicked
+2023-02-15 15:10:17 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:10:19 INFO  OrangeHRMHome:97 - Personal Details is expected header and succesfully verified 
+2023-02-15 15:10:19 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:10:20 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:10:20 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:10:21 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:10:24 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-15 15:10:24 INFO  OrangeHRMHome:85 - Renastech#2 is successfully entered
+2023-02-15 15:10:24 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-15 15:10:28 INFO  OrangeHRMHome:77 - EnesAyd is successfullly entered
+2023-02-15 15:10:28 INFO  OrangeHRMHome:85 - Aydogdu123 is successfully entered
+2023-02-15 15:10:28 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (218b839581c00ad30c84c4aa989468b9)] -> id: btnSave] is successfully clicked
+2023-02-15 15:10:29 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-15 15:10:31 INFO  OrangeHRMSteps:102 - Username , Paassword and Status of account provided succesfully 
+2023-02-15 15:10:34 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:10:34 INFO  OrangeHRMHome:91 - [[ChromeDriver: chrome on MAC (569ded2eecfea4d8e2779eb3f310b3a6)] -> id: btnSave] is successfully clicked
+2023-02-15 15:10:37 INFO  Hooks:18 - Driver is successfully started
+2023-02-15 15:10:37 ERROR OrangeHRMLogin:30 - username is empty . Please check balue you provided
+2023-02-15 15:10:37 INFO  OrangeHRMLogin:31 - Please check of you provided username correctly
+2023-02-15 15:10:39 INFO  OrangeHRMSteps:39 - Username and password provided succesfully
+2023-02-15 15:10:45 INFO  OrangeHRMHome:77 - Bahar is successfullly entered
+2023-02-15 15:10:45 INFO  OrangeHRMHome:85 - Renastech#2 is successfully entered
+2023-02-15 15:10:45 INFO  OrangeHRMHome:103 - Add login details button was successfull clicked 
+2023-02-15 15:10:53 INFO  Hooks:18 - Driver is successfully started
